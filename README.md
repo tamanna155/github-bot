@@ -1,4 +1,6 @@
 # Github Automation Script
+![image](https://github.com/user-attachments/assets/624e6fcd-eac6-4ed2-9956-7667042bd73c)
+
 ## Background
 This project demonstrates the application and usages of git using Nodejs. It is simply performed with the intent for my own educational and learning purposes. 
 ## Performance
